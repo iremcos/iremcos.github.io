@@ -78,15 +78,15 @@ const technologies = [
     },
     {
         name: "Cplusplus",
-        icon: 'src/assets/tech/Cplus.png',
+        icon: '/assets/tech/Cplus.png',
     },
     {
         name: "unrealengine",
-        icon: 'src/assets/tech/unrealengine.png',
+        icon: '/assets/tech/unrealengine.png',
     },
     {
         name: "unity",
-        icon: 'src/assets/tech/unity.png',
+        icon: '/assets/tech/unity.png',
     },
 ];
 
@@ -94,7 +94,7 @@ const experiences = [
     {
         title: "Samsung Promoter",
         company_name: "Samsung/ CPM",
-        icon: 'src/assets/company/Samsung.png',
+        icon: '/assets/company/Samsung.png',
         iconBg: "#383E56",
         date: "October 2021 - Present",
         points: [
@@ -125,7 +125,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: 'src/assets/pixelparty.png',
+        image: '/assets/pixelparty.png',
     },
     {
         name: "Jelly Guy",
@@ -145,7 +145,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: 'src/assets/jellyguy.png',
+        image: '/assets/jellyguy.png',
     },
     {
         name: "Cyber School",
@@ -165,7 +165,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: 'src/assets/schoolfight.png',
+        image: '/assets/schoolfight.png',
     },
 ];
 
