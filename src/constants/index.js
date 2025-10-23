@@ -125,7 +125,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: '/assets/pixelparty.png',
+        image: '/assets/tech/pixelparty.png',
     },
     {
         name: "Jelly Guy",
