@@ -74,7 +74,7 @@ const technologies = [
     },
     {
         name: "Csharp",
-        icon: 'src/assets/tech/Csharp.png',
+        icon: '/assets/tech/Csharp.png',
     },
     {
         name: "Cplusplus",
