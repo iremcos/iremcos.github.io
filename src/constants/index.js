@@ -94,7 +94,7 @@ const experiences = [
     {
         title: "Samsung Promoter",
         company_name: "Samsung/ CPM",
-        icon: '/assets/company/Samsung.png',
+        icon: '/assets/tech/Samsung.png',
         iconBg: "#383E56",
         date: "October 2021 - Present",
         points: [
