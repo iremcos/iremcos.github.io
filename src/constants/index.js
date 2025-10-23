@@ -145,7 +145,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: '/assets/jellyguy.png',
+        image: '/assets/tech/jellyguy.png',
     },
     {
         name: "Cyber School",
@@ -165,7 +165,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: '/assets/schoolfight.png',
+        image: '/assets/tech/schoolfight.png',
     },
 ];
 
