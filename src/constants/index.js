@@ -96,7 +96,35 @@ const experiences = [
         company_name: "Samsung/ CPM",
         icon: '/assets/tech/Samsung.png',
         iconBg: "#383E56",
-        date: "October 2021 - Present",
+        date: "October 2021 - 2025",
+        points: [
+            "Keeping up with the latest technology of samsung products.",
+            "Helping clients with this knowledge to give them the best experience finding a product that suits them best.",
+            "Knowledge on care of products and applying the care to said products.",
+            "Communication with different people and acting as a solutions expert for samsung products.",
+        ],
+    },
+
+    {
+        title: "Student Software Development",
+        company_name: "Sintlucas College",
+        icon: '/assets/tech/Sintlucas.png',
+        iconBg: "#383E56",
+        date: "August 2022 - Present",
+        points: [
+            "Keeping up with the latest technology of samsung products.",
+            "Helping clients with this knowledge to give them the best experience finding a product that suits them best.",
+            "Knowledge on care of products and applying the care to said products.",
+            "Communication with different people and acting as a solutions expert for samsung products.",
+        ],
+    },
+
+    {
+        title: "Freo Agent",
+        company_name: "Freo/ Rabobank",
+        icon: '/assets/tech/Freo.png',
+        iconBg: "#383E56",
+        date: "September 2025 - Present",
         points: [
             "Keeping up with the latest technology of samsung products.",
             "Helping clients with this knowledge to give them the best experience finding a product that suits them best.",
