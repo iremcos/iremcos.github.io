@@ -126,10 +126,11 @@ const experiences = [
         iconBg: "#383E56",
         date: "September 2025 - Present",
         points: [
-            "Keeping up with the latest technology of samsung products.",
-            "Helping clients with this knowledge to give them the best experience finding a product that suits them best.",
-            "Knowledge on care of products and applying the care to said products.",
-            "Communication with different people and acting as a solutions expert for samsung products.",
+            "Learning the fundamentals of software development including programming, problem solving, and system design.",
+            "Developing applications and projects to apply programming concepts in practical scenarios.",
+            "Working with different programming tools and technologies used in modern development environments.",
+            "Collaborating with classmates on projects while practicing version control and teamwork.",
+            "Continuously improving technical and problem-solving skills through coursework and personal projects.",
         ],
     },
 ];
