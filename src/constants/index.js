@@ -140,7 +140,7 @@ const projects = [
     {
         name: "Pixel Party",
         description:
-            "A multiplayer party game made with my dev team.",
+            "A multiplayer party game made with my dev team. We made this for a class assignment",
         tags: [
             {
                 name: "unity",
