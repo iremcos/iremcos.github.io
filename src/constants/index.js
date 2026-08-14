@@ -156,11 +156,12 @@ const projects = [
             },
         ],
         image: '/assets/tech/pixelparty.png',
+        source_code_link: 'https://github.com/Sint-Lucas/examen-party-poopers'
     },
     {
-        name: "Jelly Guy",
+        name: "The Miltop Game",
         description:
-            "A 2D platformer game, art and animation done by me entirely.",
+            "A 2D tycoon type game made for the company Miltop. this was assignment given to us by the company in collaboration with our school.",
         tags: [
             {
                 name: "unity",
@@ -175,7 +176,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: '/assets/tech/jellyguy.png',
+        image: '/assets/tech/MilltopGame.png',
     },
     {
         name: "Cyber School",
