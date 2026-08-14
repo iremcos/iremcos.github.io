@@ -197,6 +197,46 @@ const projects = [
         ],
         image: '/assets/tech/schoolfight.png',
     },
+    {
+        name: "Cyber School",
+        description:
+            "A 2D game made in unreal engine progammed and animated by me.",
+        tags: [
+            {
+                name: "unrealengine",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "blueprints",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Aseprite",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: '/assets/tech/schoolfight.png',
+    },
+    {
+        name: "Cyber School",
+        description:
+            "A 2D game made in unreal engine progammed and animated by me.",
+        tags: [
+            {
+                name: "unrealengine",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "blueprints",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Aseprite",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: '/assets/tech/schoolfight.png',
+    },
 ];
 
 export { services, technologies, experiences, projects };
