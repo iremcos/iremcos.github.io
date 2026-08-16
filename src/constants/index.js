@@ -176,12 +176,55 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: '/assets/tech/MilltopGame.png',
+        image: 'assets/tech/miltopgame.png',
+        source_code_link: 'https://github.com/Sint-Lucas/sd3-p12-miltop-challenge-nick_irem_iwan'
     },
     {
-        name: "Cyber School",
+        name: "Jelly Guy",
         description:
-            "A 2D game made in unreal engine progammed and animated by me.",
+            "This is my very first unreal engine game. It was made as an assignment where the project would be of our choosing. I made this game as my intro to unreal engine.",
+        tags: [
+            {
+                name: "unrealengine",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "blueprints",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Aseprite",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: '/assets/tech/jellyguy.png',
+        source_code_link: 'https://github.com/iremcos/Jelly-Guy'
+    },
+    {
+        name: "Unnamed Company Game",
+        description:
+            "A 2D 3D game made in unreal engine programmed and animated by me. this game is still in the works and is going to be a JRPG 2D 3D topdown game set in an office.",
+        tags: [
+            {
+                name: "unrealengine",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "blueprints",
+                color: "green-text-gradient",
+            },
+            {
+                name: "Aseprite",
+                color: "pink-text-gradient",
+            },
+        ],
+        image: '/assets/tech/CompanyGame.png',
+        source_code_link: 'https://github.com/Sint-Lucas/sd3-p12-ambitie-irem-3-3'
+    },
+    {
+        name: "School Adventure",
+        description:
+            "A 2D game made in unreal engine programmed and animated by me. I made this game to learn more about unreal engine to challenge myself to learn more",
         tags: [
             {
                 name: "unrealengine",
@@ -197,46 +240,7 @@ const projects = [
             },
         ],
         image: '/assets/tech/schoolfight.png',
-    },
-    {
-        name: "Cyber School",
-        description:
-            "A 2D game made in unreal engine progammed and animated by me.",
-        tags: [
-            {
-                name: "unrealengine",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "blueprints",
-                color: "green-text-gradient",
-            },
-            {
-                name: "Aseprite",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: '/assets/tech/schoolfight.png',
-    },
-    {
-        name: "Cyber School",
-        description:
-            "A 2D game made in unreal engine progammed and animated by me.",
-        tags: [
-            {
-                name: "unrealengine",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "blueprints",
-                color: "green-text-gradient",
-            },
-            {
-                name: "Aseprite",
-                color: "pink-text-gradient",
-            },
-        ],
-        image: '/assets/tech/schoolfight.png',
+        source_code_link: 'https://github.com/iremcos/School-Adventure'
     },
 ];
 
