@@ -176,7 +176,7 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: 'assets/tech/miltopgame.png',
+        image: 'assets/tech/gameforcompany.png',
         source_code_link: 'https://github.com/Sint-Lucas/sd3-p12-miltop-challenge-nick_irem_iwan'
     },
     {
